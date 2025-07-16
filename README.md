@@ -6,3 +6,10 @@ This repository provides pipelines for the integrated analysis of single-cell or
 It includes steps for quality control (QC), clustering, and detailed subset analyses.
 
 In addition, it offers various visualization tools—such as feature plots, stacked violin plots, and stacked bar plots—to help interpret the results effectively.
+
+
+------------------------------------------------------------- Examples ----------------------------------------------------------------
+
+**#Dot plot**
+
+<img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/9ff4f517-3210-4aef-9488-035a14fc9512" />
