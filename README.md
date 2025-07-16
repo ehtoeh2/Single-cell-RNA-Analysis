@@ -12,7 +12,7 @@ In addition, it offers various visualization tools—such as feature plots, stac
 
 **#Dim plot**
 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/c4eaf469-02f6-4039-8f6a-4b2696b46555" />
+<img width="380" height="400" alt="image" src="https://github.com/user-attachments/assets/c4eaf469-02f6-4039-8f6a-4b2696b46555" />
 
 
 **#Dot plot**
