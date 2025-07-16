@@ -20,4 +20,13 @@ In addition, it offers various visualization tools—such as feature plots, stac
 <img width="370" height="350" alt="image" src="https://github.com/user-attachments/assets/9ff4f517-3210-4aef-9488-035a14fc9512" />
 
 
+**#Detailed Analysis (Dim plot)**
+
+<img width="413" height="447" alt="image" src="https://github.com/user-attachments/assets/c214c2b3-fb77-4b05-8497-91f04ad6362d" />
+
+**#Detailed Analysis (Feature plot & vln plot)**
+
+<img width="523" height="413" alt="image" src="https://github.com/user-attachments/assets/c3849b27-e813-4060-992a-61051f52b992" />
+
+
 
