@@ -8,7 +8,7 @@ It includes steps for quality control (QC), clustering, and detailed subset anal
 In addition, it offers various visualization tools—such as feature plots, stacked violin plots, and stacked bar plots—to help interpret the results effectively.
 
 
-------------------------------------------------------------- Examples ----------------------------------------------------------------
+**------------------------------------------------------------ Examples --------------------------------------------------------------**
 
 **#Dim plot**
 
