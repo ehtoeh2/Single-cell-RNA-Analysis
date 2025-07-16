@@ -10,11 +10,14 @@ In addition, it offers various visualization tools—such as feature plots, stac
 
 ------------------------------------------------------------- Examples ----------------------------------------------------------------
 
+**#Dim plot**
+
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/c4eaf469-02f6-4039-8f6a-4b2696b46555" />
+
+
 **#Dot plot**
 
 <img width="370" height="350" alt="image" src="https://github.com/user-attachments/assets/9ff4f517-3210-4aef-9488-035a14fc9512" />
 
 
-**#Dim plot**
 
-<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/c4eaf469-02f6-4039-8f6a-4b2696b46555" />
