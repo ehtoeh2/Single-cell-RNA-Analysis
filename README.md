@@ -12,4 +12,4 @@ In addition, it offers various visualization tools—such as feature plots, stac
 
 **#Dot plot**
 
-<img width="400" height="280" alt="image" src="https://github.com/user-attachments/assets/9ff4f517-3210-4aef-9488-035a14fc9512" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/9ff4f517-3210-4aef-9488-035a14fc9512" />
